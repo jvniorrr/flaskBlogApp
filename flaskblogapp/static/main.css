@@ -1,5 +1,6 @@
 body {
     background: #fafafa;
+    /* background: linear-gradient(to right, rgba(73, 79, 94, 0.85), rgba(102, 109, 122, 0.85)); */
     color: #333333;
     margin-top: 5rem;
   }
@@ -15,6 +16,7 @@ body {
   .bg-gray {
       background-color: #494f5e;
   }
+
 
   .site-header .navbar-nav .nav-link {
     color: #cbd5db;
